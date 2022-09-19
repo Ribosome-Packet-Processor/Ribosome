@@ -1,2 +1,2 @@
 # Ribosome
-High-Speed Stateful Packet Processor for Programmable Switches
+Ribosome is a system that extends programmable switches with external memory (to store packets) and external general-purpose packet processing devices such as CPUs or FPGAs (to perform stateful operations). As today’s packet processing devices are bottlenecked by their network interface speeds, Ribosome carefully transmits only the relevant bits to these devices. Ribosome leverages spare bandwidth from any directly connected servers to store the incoming payloads through RDMA. 
