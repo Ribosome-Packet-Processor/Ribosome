@@ -1,6 +1,0 @@
-[submodule "server-agent"]
-	path = server-agent
-	url = https://github.com/Ribosome-Packet-Processor/Ribosome-RDMA-Server-Agent.git
-[submodule "p4"]
-	path = p4
-	url = https://github.com/Ribosome-Packet-Processor/Ribosome-P4.git
