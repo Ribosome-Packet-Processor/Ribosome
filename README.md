@@ -3,6 +3,8 @@ Ribosome is a system that extends programmable switches with external memory (to
 
 This implementation of Ribosome leverages on RDMA servers as remote buffers.
 
+For more details see the [original paper](https://compunet.ing.uniroma3.it/assets/publications/RibosomeNSDI2023.pdf).
+
 ## Overview
 The following figure shows an overview of the Ribosome.
 
